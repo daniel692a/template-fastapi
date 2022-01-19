@@ -30,7 +30,7 @@ $ python3 -m venv env
 # PowerShell
 $ py -m venv env
 ```
-4. Activamos el ambiente e intalamos las dependencias que se encuentran listadas en `requirements.txt`
+4. Activamos el ambiente e instalamos las dependencias que se encuentran listadas en `requirements.txt`
 ```bash
 $ source env/bin/activate
 # PowerShell
